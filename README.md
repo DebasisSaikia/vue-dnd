@@ -1,5 +1,3 @@
-# drag-n-drop
-
 ## Project setup
 ```
 npm install
@@ -10,10 +8,9 @@ npm install
 npm run serve
 ```
 
+### Run the Json Server
+npm run server-json
 ### Compiles and minifies for production
 ```
 npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
